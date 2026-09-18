@@ -1,0 +1,7 @@
+env.py
+.vscode/
+__pycache__/
+.github/
+*.sqlite3
+*.pyc
+core.python*
