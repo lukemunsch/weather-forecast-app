@@ -1,3 +1,8 @@
-.back {
-    background-color: blue;
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: rgb(0, 0, 82);
+    background-image: linear-gradient(to bottom, rgb(0, 0, 82) 0%, rgb(0, 0, 82) 60%, rgb(78, 0, 78) 100%);
+    background-repeat: no-repeat;
 }
